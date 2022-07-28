@@ -342,7 +342,7 @@ header .search-bar-container label:hover{
   }
   
   .book .row .image img{
-    width:100%;
+    width:85%;
   }
   
   .book .row form{
@@ -350,6 +350,7 @@ header .search-bar-container label:hover{
     padding:2rem;
     box-shadow: 0 1rem 2rem rgba(0,0,0,.1);
     border-radius: .5rem;
+    min-height: 80px ;
   }
   
   .book .row form .inputBox{
@@ -388,13 +389,14 @@ header .search-bar-container label:hover{
   }
   .btn{
     display: inline-block;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     background:orange;
     color:#fff;
     padding:.8rem 3rem;
     border:.2rem solid var(--orange);
     cursor: pointer;
     font-size: 1.7rem;
+    font-weight: 700;
   }
 
 
@@ -494,7 +496,7 @@ header .search-bar-container label:hover{
   }
   
   .services .box-container .box p{
-    font-size: 1.5rem;
+    font-size: 15px;
     color:#666;
     padding:1rem 0;
   }
