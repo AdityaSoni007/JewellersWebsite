@@ -13,6 +13,9 @@
   },
   "author": "Aditya Soni",
   "license": "ISC",
+  "engines": {
+    "node":"v16.16.0"
+  },
   "bugs": {
     "url": "https://github.com/AdityaSoni007/JewellersWebsite/issues"
   },
